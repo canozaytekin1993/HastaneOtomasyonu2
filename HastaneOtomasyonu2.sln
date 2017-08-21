@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HastaneOtomasyonu2", "HastaneOtomasyonu2\HastaneOtomasyonu2.csproj", "{404B3C85-1604-4D48-BD62-C1469EB7D4C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HastaneOtomasyonu2.Lib", "HastaneOtomasyonu2.Lib\HastaneOtomasyonu2.Lib.csproj", "{37AD647C-C726-47F8-94CD-DDDC443CFA48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404B3C85-1604-4D48-BD62-C1469EB7D4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404B3C85-1604-4D48-BD62-C1469EB7D4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404B3C85-1604-4D48-BD62-C1469EB7D4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404B3C85-1604-4D48-BD62-C1469EB7D4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37AD647C-C726-47F8-94CD-DDDC443CFA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AD647C-C726-47F8-94CD-DDDC443CFA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AD647C-C726-47F8-94CD-DDDC443CFA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AD647C-C726-47F8-94CD-DDDC443CFA48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
